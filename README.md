@@ -1,2 +1,2 @@
-# DinoMaze_Scratch
+# DinoMaze-Scratch
 Scratch maze game made for CS50x
